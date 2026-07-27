@@ -1,0 +1,28 @@
+PATITO S.A.
+GUÍA DE RECLUTAMIENTO, REFERIDOS Y ONBOARDING
+(Documento ficticio para fines de evaluación del semillero)
+Base de conocimiento del Agente de Reclutamiento y Onboarding
+
+1. PROCESO DE SELECCIÓN
+Requisición del área -> publicación de la vacante -> revisión de hojas de vida -> entrevistas
+(RR. HH. y área solicitante) -> evaluación técnica -> oferta -> contratación.
+
+2. PROGRAMA DE REFERIDOS
+- Cualquier colaborador puede referir candidatos para vacantes abiertas a través del portal
+  de RR. HH.
+- Si el referido es contratado y supera el periodo de prueba (90 días), el colaborador que lo
+  refirió recibe un bono de referido.
+- No aplica para posiciones de dirección ni para familiares directos del referente
+  (para evitar conflicto de interés).
+
+3. ONBOARDING (INDUCCIÓN DE NUEVOS INGRESOS)
+Pasos del proceso de onboarding:
+3.1 Antes del primer día: TI prepara los accesos y el equipo; RR. HH. envía la bienvenida.
+3.2 Primer día: bienvenida, entrega de equipo, firma de documentos y recorrido por la empresa.
+3.3 Primera semana: inducción a la cultura, políticas internas y herramientas; asignación de
+    un "padrino" o mentor.
+3.4 Plan 30-60-90 días: objetivos y seguimiento del nuevo colaborador con su jefe.
+3.5 Evaluación de periodo de prueba a los 90 días.
+
+4. DOCUMENTOS DE INGRESO
+Identificación, datos bancarios, formularios de beneficios y contrato firmado.
