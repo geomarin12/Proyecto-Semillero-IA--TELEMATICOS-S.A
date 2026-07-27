@@ -6,7 +6,11 @@ usuario, decide qué agente(s) deben responder, y consolida una respuesta final 
 basada únicamente en la base documental entregada.
 
 ---
-
+# Link del Video 
+https://drive.google.com/file/d/1CMAYLOobPCkuHHfZWnQCp1ONksu_Fhpn/view?usp=sharing
+# link del archivo ipynb
+https://drive.google.com/file/d/19w3nTEU7C4mUgKvnPkybAmSaPi1G-tC6/view?usp=sharing
+---
 ## Tabla de contenido
 
 1. [Arquitectura](#1-arquitectura)
